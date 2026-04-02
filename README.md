@@ -1,4 +1,3 @@
-Considere essa descrição para um repositório:
 ## Programação 3
 **Aluno:** Eduardo Prudêncio Fontenele\
 **Curso:** Ciência da Computação\
